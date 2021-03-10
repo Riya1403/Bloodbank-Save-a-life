@@ -1,0 +1,75 @@
+/*!
+ * Start Bootstrap - Modern Business (http://startbootstrap.com/template-overviews/modern-business)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-logomodern-business-nav/blob/master/LICENSE)
+ */
+
+body {
+    padding-top: 54px;
+}
+
+@media (min-width: 992px) {
+    body {
+        padding-top: 56px;
+    }
+}
+
+.carousel-item {
+    height:100%;
+    width:700px;
+    min-height: 300px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.portfolio-item {
+    margin-bottom: 30px;
+}
+.congo header h1
+{
+    color: aqua;
+    text-align:center;
+    position:center;
+    margin:100px;
+}
+.card-style
+{
+    border: 3px solid black;
+    border-radius: 10px;
+}
+.carousel-inner > .item > img {
+    width:640px;
+    height:360px;
+  }
+
+  .nb
+  {
+    list-style-type: none;
+  }
+  .error{
+      color: red;
+  }
+  .image{
+      width:430px;
+      height:300px;
+      border: solid black;
+      border-radius: 5px;
+      margin: 3px;
+      align-items: center;
+  }
+  .slider-image{
+      width: 600px;
+      height:600px;
+  }
+
+  /* .slider-image{
+      width: 100%;
+      height: 100%;
+  } */
+  #copyright-content{
+      text-align: center;
+      justify-content: center;
+  }
